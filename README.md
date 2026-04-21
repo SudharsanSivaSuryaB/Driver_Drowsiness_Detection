@@ -53,18 +53,22 @@ python mouth_train.py
 
 ---
 
-## For Combined Model Training
+## For fatigue_system Check
 
 ```
-python train.py
+python fatigue_system.py
 ```
 
 ---
 
-## For Model Evaluation
+## For Model Accuracy
 
 ```
-python evaluation.py
+python test_eye.py
+```
+
+```
+python test_mouth.py
 ```
 
 ---
