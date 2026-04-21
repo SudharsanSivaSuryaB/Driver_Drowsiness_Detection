@@ -1,4 +1,4 @@
-#🎯  Driver Drowsiness Detection System
+# 🎯  Driver Drowsiness Detection System
 # Project Overview
 
 This project detects driver drowsiness using computer vision and deep learning techniques. It analyzes facial features such as eye closure and yawning behavior to determine whether a driver is alert or fatigued.
